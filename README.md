@@ -1,2 +1,2 @@
 # hosting
-Minecraft Survival Server Website (SNPKKMC) with Rank &amp; Key System UI + Tebex Store Integration
+Minecraft Hosting Website (SNPKKMC) with VPS &amp; YOU CAN BUY RAM DDR$
